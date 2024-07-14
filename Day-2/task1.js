@@ -1,6 +1,6 @@
 function addNumber(a,b) {
     let c = a+b
-    // console.log(c);
+    // console.log(c); change
     return c;
 }
 
